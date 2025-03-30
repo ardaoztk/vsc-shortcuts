@@ -1,9 +1,5 @@
 # Visual Studio Code Kısayolları
 
-Visual Studio Code (VS Code), modern bir kod editörü olarak, verimliliğinizi artıracak pek çok kısayol sunar. Bu rehberde, VS Code üzerinde en yaygın kullanılan kısayolları detaylı şekilde bulabilirsiniz. Bu kısayollar, hem yeni başlayanlar hem de deneyimli kullanıcılar için işleri kolaylaştıracaktır.
-
----
-
 ## 🚀 **Genel Kısayollar**
 
 | **Kısayol**                 | **Açıklama**                                                                |
